@@ -27,8 +27,8 @@ Aaron Swartz strongly believed that information, especially scientific and acade
 He argued that much academic research is funded with public money. Therefore, he considered it unfair that these studies were locked behind expensive paywalls and could only be accessed by people or institutions that could afford subscriptions.
 For Swartz, the internet was a powerful tool to democratize knowledge. He believed that sharing information should not be treated as a crime, but as a way to promote scientific progress, education, and social equality.
 He even wrote the “Guerrilla Open Access Manifesto,” where he expressed the idea that knowledge stored in private databases limits innovation and opportunity.
-![captura de pantalla](blob:https://web.whatsapp.com/a079d292-7c9a-4186-b869-ea099779f96f)
-![captura de pantalla](blob:https://web.whatsapp.com/a2672a38-e379-4fb8-b33d-1b0216e73cd7)
-![captura de pantalla](blob:https://web.whatsapp.com/ee0f9543-d6fc-4743-9d54-07a229a18d12)
-![captura de pantalla](blob:https://web.whatsapp.com/4566c565-fc39-4b1a-8877-c0327d0be006)
-![captura de pantalla](blob:https://web.whatsapp.com/1e045859-78d6-4088-b662-ac87f98b8f86)
+![captura de pantalla 1](blob:https://web.whatsapp.com/a079d292-7c9a-4186-b869-ea099779f96f)
+![captura de pantalla 2](blob:https://web.whatsapp.com/a2672a38-e379-4fb8-b33d-1b0216e73cd7)
+![captura de pantalla 3](blob:https://web.whatsapp.com/ee0f9543-d6fc-4743-9d54-07a229a18d12)
+![captura de pantalla 4](blob:https://web.whatsapp.com/4566c565-fc39-4b1a-8877-c0327d0be006)
+![captura de pantalla 4](blob:https://web.whatsapp.com/1e045859-78d6-4088-b662-ac87f98b8f86)
