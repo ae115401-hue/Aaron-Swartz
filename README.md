@@ -27,8 +27,13 @@ Aaron Swartz strongly believed that information, especially scientific and acade
 He argued that much academic research is funded with public money. Therefore, he considered it unfair that these studies were locked behind expensive paywalls and could only be accessed by people or institutions that could afford subscriptions.
 For Swartz, the internet was a powerful tool to democratize knowledge. He believed that sharing information should not be treated as a crime, but as a way to promote scientific progress, education, and social equality.
 He even wrote the “Guerrilla Open Access Manifesto,” where he expressed the idea that knowledge stored in private databases limits innovation and opportunity.
-![captura de pantalla 1](blob:https://web.whatsapp.com/a079d292-7c9a-4186-b869-ea099779f96f)
-![captura de pantalla 2](blob:https://web.whatsapp.com/a2672a38-e379-4fb8-b33d-1b0216e73cd7)
-![captura de pantalla 3](blob:https://web.whatsapp.com/ee0f9543-d6fc-4743-9d54-07a229a18d12)
-![captura de pantalla 4](blob:https://web.whatsapp.com/4566c565-fc39-4b1a-8877-c0327d0be006)
-![captura de pantalla 4](blob:https://web.whatsapp.com/1e045859-78d6-4088-b662-ac87f98b8f86)
+<img width="720" height="1147" alt="image" src="https://github.com/user-attachments/assets/d7b5734a-86ad-42b1-86c1-5c34ff330fe0" />
+<img width="720" height="642" alt="image" src="https://github.com/user-attachments/assets/eb338ad8-60aa-4e72-b72f-0553011aa43f" />
+<img width="720" height="690" alt="image" src="https://github.com/user-attachments/assets/80b9ce56-6840-4d9f-a5e7-bed15ac0b555" />
+<img width="720" height="1369" alt="image" src="https://github.com/user-attachments/assets/61fab2ca-a724-4ea5-874a-38b43b3018d0" />
+<img width="720" height="1134" alt="image" src="https://github.com/user-attachments/assets/e6676e83-ec17-4db1-9cd0-2dfcd1d9c92f" />
+<img width="720" height="1132" alt="image" src="https://github.com/user-attachments/assets/8054be4b-c86e-4503-9b7f-b46e17369818" />
+
+
+**Concluision**
+In my opinion, Aaron Swartz was someone who truly believed that knowledge should be accessible to everyone. I think his ideas about open access are important, especially because information today has a big impact on education and opportunities. His case shows how technology, law, and ethics can sometimes conflict. For me, his story makes us reflect on who controls information and why it matters.
