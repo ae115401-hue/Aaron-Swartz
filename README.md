@@ -1,10 +1,10 @@
-**Database**..
-**Markdown**.. 
-**Teacher:Heriverto Casarrubias vargas**..
-**Name:Esquivel Perez Alan**..  
-**Actuaria**..
-**Aaron Swartz**..  
-Aaron Swartz..  
+**Database**  
+**Markdown**   
+**Teacher:Heriverto Casarrubias vargas**  
+**Name:Esquivel Perez Alan**    
+**Actuaria**  
+**Aaron Swartz**    
+Aaron Swartz   
 ![Aaron Swartz](https://media.wbur.org/wp/2023/01/AaronSwartz-1000x709.png).. 
 Aaron Swartz was an American programmer, writer, and internet activist. He was born on November 8, 1986, in Chicago, Illinois, and he died on January 11, 2013.
 He was considered a technology prodigy because from a very young age he showed great talent in programming and computers. He helped develop important internet tools that are still used today.
