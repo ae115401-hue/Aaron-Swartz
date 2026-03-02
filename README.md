@@ -1,7 +1,7 @@
 **Database**  
 **Markdown**   
-**Teacher:Heriverto Casarrubias vargas**  
-**Name:Esquivel Perez Alan**    
+**Teacher Heriverto Casarrubias vargas**  
+**Name Esquivel Perez Alan**    
 **Actuaria**  
 **Aaron Swartz**    
 Aaron Swartz   
