@@ -4,8 +4,8 @@
 *Name:Esquivel Perez Alan*  
 *Actuaria* 
 *Aaron Swartz*  
-Aaron Swartz
-![Aaron Swartz](https://media.wbur.org/wp/2023/01/AaronSwartz-1000x709.png)
+Aaron Swartz  
+![Aaron Swartz](https://media.wbur.org/wp/2023/01/AaronSwartz-1000x709.png)  
 Aaron Swartz was an American programmer, writer, and internet activist. He was born on November 8, 1986, in Chicago, Illinois, and he died on January 11, 2013.
 He was considered a technology prodigy because from a very young age he showed great talent in programming and computers. He helped develop important internet tools that are still used today.
 His Contributions
@@ -16,10 +16,10 @@ Creative Commons – A nonprofit organization that helps share creative work leg
 He believed that information on the internet should be free and accessible to everyone.
 The JSTOR Case
 In 2011, Aaron Swartz downloaded millions of academic articles from JSTOR using MIT’s network. His intention was to make scientific knowledge free for the public.
-His Death and Legacy
+His Death and Legacy  
 Aaron Swartz died in 2013 at the age of 26. His death generated international debate about internet freedom, open access to information, and the justice system in the United States.
 Today, he is remembered as a symbol of the fight for open knowledge and digital rights.
-Aaron Swartz strongly believed that information, especially scientific and academic knowledge, should be free and accessible to everyone.
+Aaron Swartz strongly believed that information, especially scientific and academic knowledge, should be free and accessible to everyone.  
 He argued that much academic research is funded with public money. Therefore, he considered it unfair that these studies were locked behind expensive paywalls and could only be accessed by people or institutions that could afford subscriptions.
 For Swartz, the internet was a powerful tool to democratize knowledge. He believed that sharing information should not be treated as a crime, but as a way to promote scientific progress, education, and social equality.
 He even wrote the “Guerrilla Open Access Manifesto,” where he expressed the idea that knowledge stored in private databases limits innovation and opportunity.
